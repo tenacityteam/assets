@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg2235"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2232">
+    <linearGradient
+       xlink:href="#linearGradient135126"
+       id="linearGradient70771"
+       x1="13.410914"
+       y1="89.657997"
+       x2="36.958832"
+       y2="66.110077"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient135126">
+      <stop
+         style="stop-color:#e93c17;stop-opacity:1"
+         offset="0"
+         id="stop135122" />
+      <stop
+         style="stop-color:#ca153e;stop-opacity:1"
+         offset="1"
+         id="stop135124" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient135126"
+       id="linearGradient89893"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.9571544e-6)"
+       x1="36.958832"
+       y1="66.110077"
+       x2="13.410914"
+       y2="89.657997" />
+    <linearGradient
+       xlink:href="#linearGradient135126"
+       id="linearGradient67977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71198446,0,0,0.71198433,22.162262,-46.691925)"
+       x1="-7.3441615"
+       y1="65.579994"
+       x2="-31.127453"
+       y2="89.363289" />
+  </defs>
+  <path
+     id="path3234-4"
+     style="color:#000000;display:inline;fill:url(#linearGradient67977);fill-opacity:1;stroke:none;stroke-width:5.99991;stroke-dashoffset:30.2362;-inkscape-stroke:none;paint-order:markers fill stroke"
+     d="M 2.1170343,6.1666664e-8 C 0.95356626,6.1666664e-8 2.5666666e-7,0.95357437 2.5666666e-7,2.1170333 V 14.8163 c 0,1.163459 0.95356600333334,2.117033 2.11703404333334,2.117033 H 14.8163 c 1.163459,0 2.117033,-0.953574 2.117033,-2.117033 V 2.1170333 C 16.933333,0.95357437 15.979759,6.1666664e-8 14.8163,6.1666664e-8 Z M 8.4670343,2.1166667 H 10.5837 v 3.1749998 h 2.116667 V 7.4083331 H 15.875 v 2.1166673 h -1.587133 -1.5875 V 11.641667 H 10.5837 v 3.175 H 8.4670343 V 10.583333 H 6.3503683 V 12.7 H 4.2337013 V 9.5250004 H 1.0583333 V 7.4083331 h 3.175368 V 4.2333332 h 2.116667 v 2.1166666 h 2.116666 z" />
+</svg>
