@@ -7,19 +7,35 @@
    viewBox="0 0 16.933333 16.933334"
    version="1.1"
    id="svg2235"
+   sodipodi:docname="tenacity-icon-dark.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.5625"
+     inkscape:cx="32"
+     inkscape:cy="31.952663"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2235" />
   <defs
      id="defs2232">
-    <linearGradient
-       xlink:href="#linearGradient135126"
-       id="linearGradient70771"
-       x1="13.410914"
-       y1="89.657997"
-       x2="36.958832"
-       y2="66.110077"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient135126">
       <stop
@@ -31,15 +47,6 @@
          offset="1"
          id="stop135124" />
     </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient135126"
-       id="linearGradient89893"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-4.9571544e-6)"
-       x1="36.958832"
-       y1="66.110077"
-       x2="13.410914"
-       y2="89.657997" />
     <linearGradient
        xlink:href="#linearGradient135126"
        id="linearGradient67977"
@@ -54,4 +61,27 @@
      id="path3234-4"
      style="color:#000000;display:inline;fill:url(#linearGradient67977);fill-opacity:1;stroke:none;stroke-width:5.99991;stroke-dashoffset:30.2362;-inkscape-stroke:none;paint-order:markers fill stroke"
      d="M 2.1170343,6.1666664e-8 C 0.95356626,6.1666664e-8 2.5666666e-7,0.95357437 2.5666666e-7,2.1170333 V 14.8163 c 0,1.163459 0.95356600333334,2.117033 2.11703404333334,2.117033 H 14.8163 c 1.163459,0 2.117033,-0.953574 2.117033,-2.117033 V 2.1170333 C 16.933333,0.95357437 15.979759,6.1666664e-8 14.8163,6.1666664e-8 Z M 8.4670343,2.1166667 H 10.5837 v 3.1749998 h 2.116667 V 7.4083331 H 15.875 v 2.1166673 h -1.587133 -1.5875 V 11.641667 H 10.5837 v 3.175 H 8.4670343 V 10.583333 H 6.3503683 V 12.7 H 4.2337013 V 9.5250004 H 1.0583333 V 7.4083331 h 3.175368 V 4.2333332 h 2.116667 v 2.1166666 h 2.116666 z" />
+  <metadata
+     id="metadata828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
