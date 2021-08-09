@@ -8,4 +8,4 @@ The files within this repository are licensed under the Creative Commons Attribu
 
 `tenacity-icon-dark.svg`, `tenacity-icon-light.svg`, `tenacity-logo-dark.svg`, and `tenacity-logo-light.svg` were each modified or created by Emily Mabrey using material licensed to the Tenacity project by Rikard Jansson (under the `CC-BY-4.0`).
 
-`screenshots/tenacity-screenshot-light-3840x2160.png` and `screenshots/tenacity-screenshot-dark-3840x2160.png` are licensed to the Tenacity project under the CC BY 4.0 by Vincent Chernin.
+All images under `screenshots/` are licensed to the Tenacity project under the CC BY 4.0 by Vincent Chernin.
